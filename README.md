@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f0f,100:00F7FF&text=FLUKE&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full-stack%20Engineer%20•%20System%20Architect%20•%20Automation%20Developer&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f0f,100:00F7FF&text=Makok007&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full-stack%20Engineer%20•%20System%20Architect%20•%20Automation%20Developer&descAlignY=60" />
 
 <br/>
 
@@ -8,9 +8,12 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" />
+<img src="https://img.shields.io/github/followers/Makok007?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/Makok007?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=Makok007&style=for-the-badge&color=00F7FF" />
+
+
+![Snake animation](https://github.com/flukdev/Makok007/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
