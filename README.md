@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img width="95%" src="https://raw.githubusercontent.com/Makok007/Makok007/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Makok007/Makok007/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
