@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Makok007/Makok007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Master ⚡
 
-Here are some ideas to get you started:
+### Full-stack Engineer • System Builder • Automation Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Next.js+%2B+TypeScript+Engineer;Warehouse+%26+POS+Systems;Docker+%2B+PostgreSQL+Architecture;Realtime+Systems+Developer;Building+Production-Grade+Apps" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=FlukeDev&style=for-the-badge&color=0e75b6" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```ts
+const master = {
+  role: "Full-stack Developer",
+  location: "Thailand 🇹🇭",
+  stack: [
+    "Next.js",
+    "TypeScript",
+    "ElysiaJS",
+    "PostgreSQL",
+    "Docker",
+    "Supabase",
+    "TailwindCSS",
+    "n8n",
+    "GCP"
+  ],
+  architecture: [
+    "Realtime Systems",
+    "POS Systems",
+    "Warehouse Automation",
+    "Distributed Services"
+  ]
+};
