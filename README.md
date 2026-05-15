@@ -1,40 +1,50 @@
 <div align="center">
 
-# Fluke ⚡
-
-### Full-stack Engineer • System Builder • Automation Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Next.js+%2B+TypeScript+Engineer;Warehouse+%26+POS+Systems;Docker+%2B+PostgreSQL+Architecture;Realtime+Systems+Developer;Building+Production-Grade+Apps" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f0f,100:00F7FF&text=FLUKE&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full-stack%20Engineer%20•%20System%20Architect%20•%20Automation%20Developer&descAlignY=60" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=FlukeDev&style=for-the-badge&color=0e75b6" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Next.js+%2B+TypeScript+Engineer;Realtime+POS+%26+Warehouse+Systems;PostgreSQL+%2B+Docker+Architecture;Building+Production-Grade+Applications" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ⚡ SYSTEM.INFO
 
 ```ts
 const fluke = {
-  role: "Full-stack Developer",
-  location: "Thailand 🇹🇭",
-  stack: [
-    "Next.js",
-    "TypeScript",
-    "ElysiaJS",
-    "PostgreSQL",
-    "Docker",
-    "Supabase",
-    "TailwindCSS",
-    "n8n",
-    "GCP"
-  ],
-  architecture: [
+  role: "Full-stack Engineer",
+  specialization: [
     "Realtime Systems",
-    "POS Systems",
     "Warehouse Automation",
-    "Distributed Services"
-  ]
+    "POS Infrastructure",
+    "Backend Architecture"
+  ],
+
+  frontend: {
+    framework: "Next.js",
+    language: "TypeScript",
+    styling: "TailwindCSS",
+    state: "Zustand"
+  },
+
+  backend: {
+    runtime: "Bun",
+    framework: "ElysiaJS",
+    database: "PostgreSQL",
+    realtime: "WebSocket"
+  },
+
+  infrastructure: {
+    container: "Docker",
+    cloud: "GCP",
+    automation: "n8n"
+  }
 };
