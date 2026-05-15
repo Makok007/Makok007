@@ -1,6 +1,6 @@
 <div align="center">
 
-# Master ⚡
+# Fluke ⚡
 
 ### Full-stack Engineer • System Builder • Automation Developer
 
@@ -17,7 +17,7 @@
 # 🚀 About Me
 
 ```ts
-const master = {
+const fluke = {
   role: "Full-stack Developer",
   location: "Thailand 🇹🇭",
   stack: [
