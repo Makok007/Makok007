@@ -150,7 +150,7 @@ GCP
   <img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&logo=discord&logoColor=5865F2" />
 </a>
 
-<a href="#">
+<a href="@zoneoy@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
