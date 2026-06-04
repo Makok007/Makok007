@@ -90,7 +90,7 @@ High-performance restaurant POS ecosystem:
 
 # GITHUB ANALYTICS
 
-<div grid grid-col-2>
+<div flex align="center">
 
 <img height="180em" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Makok007&show_icons=true&theme=tokyonight&hide_border=true" />
 
