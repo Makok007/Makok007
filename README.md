@@ -34,7 +34,7 @@ automation pipelines, and modern web platforms.
 | Next.js App Router | Docker         | POS Platform        |
 | TypeScript Strict  | GCP            | Smart Warehouse     |
 | ElysiaJS           | Linux          | Realtime Dashboard  |
-| PostgreSQL         | n8n            | Automation Pipeline |
+| PostgreSQL         | Automation Pipeline |
 
 </div>
 
