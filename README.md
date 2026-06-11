@@ -10,7 +10,7 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,bun,nodejs,postgres,docker,flutter,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,bun,nodejs,react,postgres,docker,flutter,postman,linux" />
 </p>
 
 </div>
