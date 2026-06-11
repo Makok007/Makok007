@@ -56,6 +56,10 @@ automation pipelines, and modern web platforms.
 
 <img src="https://img.shields.io/badge/DOCKER-09090B?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
+<img src="https://img.shields.io/badge/FLUTTER-09090B?style=for-the-badge&logo=flutter&logoColor=2497ED" />
+
+<img src="https://img.shields.io/badge/POSTMAN-09090B?style=for-the-badge&logo=postman&logoColor=orenge" />
+
 </div>
 
 ---
