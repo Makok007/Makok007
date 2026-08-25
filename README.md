@@ -92,18 +92,6 @@ High-performance restaurant POS ecosystem:
 
 ---
 
-# GITHUB ANALYTICS
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Makok007&bg_color=050505&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
-
-</div>
-
----
-
 # TERMINAL
 
 ```bash
