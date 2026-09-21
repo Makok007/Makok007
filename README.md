@@ -1,144 +1,248 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:050505,40:0B1120,100:00F7FF&text=FLUKE&fontSize=88&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20ENGINEER%20•%20REALTIME%20ARCHITECTURE&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:080808,50:111827,100:7C3AED&text=FLUKE&fontSize=88&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BUILDING%20DIGITAL%20PRODUCTS&descAlignY=60&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+Systems;Next.js+%2B+TypeScript+%2B+PostgreSQL;Realtime+Infrastructure+%26+Automation;Warehouse+%2B+POS+Platforms" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=2500&color=A78BFA&center=true&vCenter=true&width=900&lines=Designing+%26+Building+Software;Turning+Ideas+Into+Real+Products;Web+%2B+Mobile+%2B+Backend;Clean+Architecture+%7C+Scalable+Systems+%7C+Automation" />
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,bun,nodejs,react,postgres,docker,flutter,postman,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,bun,nodejs,postgres,docker,flutter,git,linux" />
 
 </div>
 
 ---
 
-# ABOUT
+# 👨‍💻 ABOUT ME
 
 ```txt
-Full-stack engineer focused on realtime systems,
-backend architecture, warehouse infrastructure,
-automation pipelines, and modern web platforms.
-````
+Software Developer who enjoys building useful,
+reliable, and scalable software.
 
-<br/>
+I work across web, mobile, backend,
+databases, and infrastructure —
+from designing the architecture
+to shipping the final product.
+```
 
 <div align="center">
 
-| Architecture       | Infrastructure | Systems             |
-| ------------------ | -------------- | ------------------- |
-| Next.js App Router | Docker         | POS Platform        |
-| TypeScript Strict  | GCP            | Smart Warehouse     |
-| ElysiaJS           | Linux          | Realtime Dashboard  |
-| PostgreSQL         | Automation Pipeline |
+| DEVELOPMENT |  BACKEND |     DATABASE    | INFRASTRUCTURE |
+| :---------: | :------: | :-------------: | :------------: |
+|   Next.js   |  Node.js |    PostgreSQL   |     Docker     |
+|    React    |    Bun   |   Drizzle ORM   |      Linux     |
+|  TypeScript | ElysiaJS |       SQL       |       GCP      |
+|   Flutter   | REST API | Database Design |      CI/CD     |
 
 </div>
 
 ---
 
-# CURRENT STACK
+# 🧩 WHAT I BUILD
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NEXT.JS-09090B?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+### 🌐 WEB APPLICATIONS
 
-<img src="https://img.shields.io/badge/TYPESCRIPT-09090B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+Modern web applications with clean UI,
+strong architecture, and maintainable code.
 
-<img src="https://img.shields.io/badge/TAILWINDCSS-09090B?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+### 📱 MOBILE APPLICATIONS
 
-<img src="https://img.shields.io/badge/POSTGRESQL-09090B?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+Cross-platform applications using Flutter
+with a focus on performance and usability.
 
-<img src="https://img.shields.io/badge/BUN-09090B?style=for-the-badge&logo=bun&logoColor=white" />
+### ⚙️ BACKEND SYSTEMS
 
-<img src="https://img.shields.io/badge/DOCKER-09090B?style=for-the-badge&logo=docker&logoColor=2496ED" />
+REST APIs, authentication, business logic,
+database architecture, and realtime services.
 
-<img src="https://img.shields.io/badge/FLUTTER-09090B?style=for-the-badge&logo=flutter&logoColor=2497ED" />
+### 🏗️ SOFTWARE SYSTEMS
 
-<img src="https://img.shields.io/badge/POSTMAN-09090B?style=for-the-badge&logo=postman&logoColor=orenge" />
+POS, warehouse management,
+inventory systems, dashboards, and automation.
 
 </div>
 
 ---
 
-# FEATURED PROJECTS
+# 🛠️ TECH STACK
 
-## SMART WAREHOUSE SYSTEM
+### Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,dart,python,sql" />
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter" />
+
+</div>
+
+### Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,bun,postgres,docker" />
+
+</div>
+
+### Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,gcp,postman" />
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+## 📦 SMART WAREHOUSE
 
 ```txt
-Realtime inventory platform with:
-• QR / RFID tracking
-• Intelligent placement logic
-• Live inventory dashboard
-• Low stock alerting
-• Warehouse visualization
+Warehouse Management Platform
+
+→ Inventory Management
+→ QR / RFID Tracking
+→ Stock Movement
+→ Warehouse Visualization
+→ Low Stock Detection
+→ Realtime Dashboard
+→ Automated Workflows
 ```
 
-<br/>
+**Tech**
 
-## MODERN POS INFRASTRUCTURE
+`Next.js` `TypeScript` `ElysiaJS` `PostgreSQL` `Drizzle` `Docker`
+
+---
+
+## 🧾 POS PLATFORM
 
 ```txt
-High-performance restaurant POS ecosystem:
-• Kitchen realtime synchronization
-• WebSocket event architecture
-• Offline-first operation
-• Queue management
-• Analytics dashboard
+Modern Point-of-Sale Ecosystem
+
+→ Order Management
+→ Kitchen Synchronization
+→ Realtime Updates
+→ Queue Management
+→ Offline-first Architecture
+→ Analytics Dashboard
+→ Automated Notifications
+```
+
+**Tech**
+
+`Next.js` `TypeScript` `PostgreSQL` `WebSocket` `Docker`
+
+---
+
+## 📱 MOBILE APPLICATIONS
+
+```txt
+Cross-platform applications designed
+for real-world business workflows.
+
+→ Flutter
+→ REST API
+→ Authentication
+→ Local Storage
+→ State Management
+→ Backend Integration
 ```
 
 ---
 
-# TERMINAL
+# 🧠 DEVELOPMENT PHILOSOPHY
+
+```txt
+01  Understand the problem
+02  Design the system
+03  Build simple solutions
+04  Test and iterate
+05  Optimize where it matters
+06  Ship
+```
+
+> Good software isn't just about writing code.
+>
+> It's about solving the right problem with
+> software that people can actually use.
+
+---
+
+# 💻 CURRENT FOCUS
 
 ```bash
-> whoami
+$ developer --status
 
-Fluke
-Full-stack Engineer
-Realtime Systems Developer
+ROLE
+Software Developer
 
-> current_focus
+LEARNING
+→ Software Architecture
+→ System Design
+→ Database Optimization
+→ Backend Engineering
+→ Cloud Infrastructure
 
-- Smart Warehouse Architecture
-- POS Infrastructure
-- PostgreSQL Optimization
-- Automation Systems
-
-> stack
-
-Next.js
-TypeScript
-Bun
-PostgreSQL
-Docker
-GCP
+BUILDING
+→ Business Software
+→ Warehouse Systems
+→ POS Platforms
+→ Automation Tools
+→ Mobile Applications
 ```
 
 ---
 
-# CONNECT
+# 📊 GITHUB
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=FFFFFF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+</div>
+
+---
+
+# 📡 CONNECT
 
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&logo=discord&logoColor=5865F2" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zoneoy@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -146,4 +250,12 @@ GCP
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:050505" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,100:080808" />
+
+<div align="center">
+
+### `BUILD • LEARN • SHIP • REPEAT`
+
+</div>
